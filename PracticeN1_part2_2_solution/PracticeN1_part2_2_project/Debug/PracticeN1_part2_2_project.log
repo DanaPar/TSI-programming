@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\danap\Desktop\TSI\Programesana\Praktiskie darbi\PracticeN1_part2_2_solution\PracticeN1_part2_2_project\main.cpp(6,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PracticeN1_part2_2_project.vcxproj -> C:\Users\danap\Desktop\TSI\Programesana\Praktiskie darbi\PracticeN1_part2_2_solution\Debug\PracticeN1_part2_2_project.exe
