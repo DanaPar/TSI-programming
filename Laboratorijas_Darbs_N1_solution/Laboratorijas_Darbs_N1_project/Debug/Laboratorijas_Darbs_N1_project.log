@@ -1,4 +1,2 @@
 ﻿  main.cpp
-C:\Users\danap\Desktop\TSI\Programesana\Praktiskie darbi\Laboratorijas_Darbs_N1_solution\Laboratorijas_Darbs_N1_project\main.cpp(13,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\danap\Desktop\TSI\Programesana\Praktiskie darbi\Laboratorijas_Darbs_N1_solution\Laboratorijas_Darbs_N1_project\main.cpp(14,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Laboratorijas_Darbs_N1_project.vcxproj -> C:\Users\danap\Desktop\TSI\Programesana\Praktiskie darbi\Laboratorijas_Darbs_N1_solution\Debug\Laboratorijas_Darbs_N1_project.exe
