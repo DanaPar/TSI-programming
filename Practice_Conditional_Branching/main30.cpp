@@ -12,6 +12,7 @@ int main() {
         k = x * x;
     else
         k = abs(x);
+    
     if (k < x)
         f = k * x;
     else
